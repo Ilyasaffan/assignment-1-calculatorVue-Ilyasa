@@ -8,6 +8,6 @@ import Calculator from './components/Calculator.vue'
 
 <style>
   body{
-    background: #31475e;
+    background: #214974;
   }
 </style>
